@@ -8,9 +8,11 @@
 0.0.0.0 data.emb-api.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 events.split.io
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 i.isnssdk.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mon-va.tiktokv.com
@@ -18,4 +20,5 @@
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 sdk.split.io
+0.0.0.0 telemetry.mozilla.org
 0.0.0.0 www.google-analytics.com
