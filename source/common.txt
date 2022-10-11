@@ -19,3 +19,6 @@ mon.tiktokv.com
 register.appsflyer.com
 sdk.split.io
 www.google-analytics.com
+telemetry.mozilla.org
+jnn-pa.googleapis.com
+googleads.g.doubleclick.net
