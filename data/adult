@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 February 2023 01:12:23 (GMT)
+# Date: 19 February 2023 01:10:31 (GMT)
 # Extensions added to this file: porn
-# Number of unique domains: 47,526
+# Number of unique domains: 47,528
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -45549,6 +45549,7 @@
 0.0.0.0 javhd.services
 0.0.0.0 javhd.tech
 0.0.0.0 javhd.video
+0.0.0.0 javhd.ws
 0.0.0.0 javhdhay.me
 0.0.0.0 javhdpro.org
 0.0.0.0 javhdvd.net
@@ -45657,6 +45658,7 @@
 0.0.0.0 laugai.net
 0.0.0.0 lauxanh.one
 0.0.0.0 lauxanhthiendia.com
+0.0.0.0 lenlut.info
 0.0.0.0 lenlut.net
 0.0.0.0 linh2k.live
 0.0.0.0 linkclipsex.com
