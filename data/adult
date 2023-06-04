@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 28 May 2023 01:09:53 (GMT)
+# Date: 04 June 2023 01:23:39 (GMT)
 # Extensions added to this file: porn
-# Number of unique domains: 49,024
+# Number of unique domains: 49,025
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -46733,6 +46733,7 @@
 0.0.0.0 manhwa24h.com
 0.0.0.0 manhwa24hs.com
 0.0.0.0 manhwa24hz.com
+0.0.0.0 manhwavn.com
 0.0.0.0 manquynh.com
 0.0.0.0 manquynh.net
 0.0.0.0 manquynh1.com
