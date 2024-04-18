@@ -24,6 +24,10 @@ jobs:
           cat hosts > ../data/adult
           cd .. && rm -rf stevenblack
 
+      - name: Cuatom resolver
+        run: |
+          bash utils/crawl.sh
+
       - name: commit and push
         run: |
           git config --global user.name "rzlamrr"
