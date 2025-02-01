@@ -1,0 +1,14 @@
+157.240.229.174	instagram.com
+151.101.1.140	reddit.com
+146.75.93.140	www.reddit.com
+23.35.71.186	tiktok.com
+23.60.13.17	www.tiktok.com
+23.33.29.20	lf16-tiktok-web.tiktokcdn-us.com
+23.46.30.31	sf16-website-login.neutral.ttwstatic.com
+23.33.22.132	webcast.us.tiktok.com
+23.55.221.217	lf16-tiktok-common.tiktokcdn-us.com
+23.33.22.79	mssdk.tiktokw.us
+172.217.1.110	www.youtube.com
+142.250.190.35	fonts.gstatic.com
+142.250.191.110	play.google.com
+142.250.190.67	www.gstatic.com
