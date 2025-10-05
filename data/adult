@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 28 September 2025 01:24:23 (GMT)
+# Date: 05 October 2025 01:23:32 (GMT)
 # Extensions added to this file: porn
-# Number of unique domains: 75,483
+# Number of unique domains: 75,484
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -73606,6 +73606,7 @@
 0.0.0.0 lauxanh.one
 0.0.0.0 lauxanhthiendia.com
 0.0.0.0 laysogaigoi.com
+0.0.0.0 lenlut.ac
 0.0.0.0 lenlut.blog
 0.0.0.0 lenlut.info
 0.0.0.0 lenlut.tv
